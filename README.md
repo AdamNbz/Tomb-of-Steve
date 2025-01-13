@@ -5,7 +5,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>GAMAPP STUDIO CLUB - ĐỒ ÁN CUỐI KHOÁ GEN 3</b></h1>
+<h1 align="center"><b>GAMAPP STUDIO CLUB - ĐỒ ÁN CUỐI KHOÁ GEN 4</b></h1>
 
 
 
