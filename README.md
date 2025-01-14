@@ -10,14 +10,14 @@
 
 
 ## BẢNG MỤC LỤC
-* [ Giới thiệu môn học](#gioithieumonhoc)
+* [ Giới thiệu đồ án](#gioithieuproject)
 * [ Giảng viên hướng dẫn](#giangvien)
 * [ Thành viên nhóm](#thanhvien)
 * [ Đồ án môn học](#doan)
 
 
 ## GIỚI THIỆU MÔN HỌC
-<a name="gioithieumonhoc"></a>
+<a name="gioithieuproject"></a>
 
 
 ## GIẢNG VIÊN HƯỚNG DẪN
