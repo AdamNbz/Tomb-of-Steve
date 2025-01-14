@@ -13,7 +13,7 @@
 * [ Giới thiệu đồ án](#gioithieuproject)
 * [ Giảng viên hướng dẫn](#giangvien)
 * [ Thành viên nhóm](#thanhvien)
-* [ Đồ án môn học](#doan)
+* [ Đồ án](#doan)
 
 
 ## GIỚI THIỆU MÔN HỌC
@@ -33,4 +33,4 @@
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-Đồ án cá nhân: Tomb of the Mask
+Tên đồ án: Tomb of the Mask
