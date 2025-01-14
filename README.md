@@ -5,7 +5,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>GAMAPP STUDIO CLUB - ĐỒ ÁN CUỐI KHOÁ GEN 4</b></h1>
+<h1 align="center"><b>GAMAPP STUDIOS CLUB - ĐỒ ÁN CUỐI KHOÁ GEN 4</b></h1>
 
 
 
@@ -22,6 +22,7 @@
 
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
+* CLB **GamApp Studios** - *gamappuit.club@gmail.com*
 
 
 ## THÀNH VIÊN NHÓM
