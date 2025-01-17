@@ -18,6 +18,7 @@
 
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieuproject"></a>
+- Tomb of Steve là tựa game dựa theo thiết kế, cách vận hành và lối chơi của game mobile Tomb of the Mask. Người chơi phải điều khiển nhân vật chính là Steve - 1 character lấy từ game Minecraft, vượt qua 10 tầng của một ngôi mộ bí ẩn mang tên "UIT - Undeadly Improvised Tomb". Ổ mỗi tầng, người chơi cần phải thu thập đủ hết các viên kim cương trên đường đi của mình để có thể mở cánh cửa đến tầng tiếp theo.
 
 
 ## GIẢNG VIÊN HƯỚNG DẪN
@@ -34,4 +35,4 @@
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-Tên đồ án: Tomb of the Mask
+Tên đồ án: Tomb of Steve (A cloned game of Tomb of the Mask, kind of...)
