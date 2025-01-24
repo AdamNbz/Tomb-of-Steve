@@ -10,10 +10,15 @@ public class Camera : InitializeGameObject
     private void FollowingPlayer()
     {
         Vector3 newPosition = this.playerTransform.position;
-        
-        newPosition.z = this.playerTransform.position.z;
+
+        newPosition.z = this.transform.position.z;
 
         this.transform.DOMove(newPosition, 0.5f).SetId(this.GetInstanceID());
+    }
+
+    public void GetCurrentPosition()
+    {
+        this.playerTransform = GameManager.Instance.GetPlayer().transform;
     }
 
     private void OnDisable()

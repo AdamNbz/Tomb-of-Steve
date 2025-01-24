@@ -1,0 +1,54 @@
+{
+    "name": "MouseTouchControl",
+    "maps": [
+        {
+            "name": "Touch",
+            "id": "b092bcd5-3c77-4815-ab6d-a5f0d6699556",
+            "actions": [
+                {
+                    "name": "ScreenTouch",
+                    "type": "PassThrough",
+                    "id": "5d500f5e-521f-4849-a815-67892d86164f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press(behavior=2)",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "ScreenHold",
+                    "type": "PassThrough",
+                    "id": "a47166ad-92a8-4fa7-86f6-842813918a1f",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "43731971-f58a-43c1-af29-d6bfdcac106f",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ScreenTouch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3de30b77-bc51-4a90-991f-9fef4813f18c",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ScreenHold",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
